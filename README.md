@@ -1,3 +1,19 @@
+# Donation website-Dostrity
+It is an official website for those one who want to help any needy people 
+## Key features 
+
+- You can fill up your identity and also donate any charity through our page 
+- People check all the Donation 
+- People show relatime update through this website
+
+# Tool Use 
+- Redux 
+- React
+- Tailwind ,daisy ui
+- RTK Query
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
