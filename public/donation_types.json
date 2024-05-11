@@ -1,0 +1,162 @@
+[
+    {
+        "id": "1",
+        "image": "https://i.postimg.cc/qvtJP5sj/claudia-raya-yvam-SKr8w-BA-unsplash.jpg",
+        "title": "Support Local Food Banks",
+        "description": "Your donation will help provide nutritious meals to families facing food insecurity in your community.",
+        "category": "Food",
+        "amount": "$50"
+    },
+    {
+        "id": "2",
+        "image": "https://i.postimg.cc/prXCr8kX/download-1.jpg",
+        "title": "Help Homeless Shelters",
+        "description": "Your contribution will support shelters providing safe refuge and assistance to individuals experiencing homelessness.",
+        "category": "Shelter",
+        "amount": "$100"
+    },
+    {
+        "id": "3",
+        "image": "https://i.postimg.cc/wvxB3cyr/download-10.jpg",
+        "title": "Support Mental Health Initiatives",
+        "description": "Your donation will fund programs and resources aimed at promoting mental wellness and supporting those in need of mental health services.",
+        "category": "Health",
+        "amount": "$75"
+    },
+    {
+        "id": "4",
+        "image": "https://i.postimg.cc/YqgHgrL7/download-12.jpg",
+        "title": "Protect Endangered Species",
+        "description": "Your support will aid in the conservation efforts to protect endangered species and their habitats.",
+        "category": "Wildlife",
+        "amount": "$25"
+    },
+    {
+        "id": "5",
+        "image": "https://i.postimg.cc/NGX22b5y/images-3.jpg",
+        "title": "Provide Education for Underprivileged Children",
+        "description": "Your contribution will help provide access to quality education for children from underprivileged backgrounds, giving them opportunities for a brighter future.",
+        "category": "Education",
+        "amount": "$100"
+    },
+    {
+        "id": "6",
+        "image": "https://i.postimg.cc/bv3tmMpL/ismael-paramo-Cns0h4yp-Ry-A-unsplash.jpg",
+        "title": "Support Local Food Banks",
+        "description": "Your donation will help ensure that local food banks have the resources they need to alleviate hunger in your community.",
+        "category": "Food",
+        "amount": "$50"
+    },
+    {
+        "id": "7",
+        "image": "https://i.postimg.cc/05cZ3W26/download-2.jpg",
+        "title": "Help Homeless Shelters",
+        "description": "Your contribution will provide essential support to homeless shelters, including meals, shelter, and access to resources for individuals in need.",
+        "category": "Shelter",
+        "amount": "$75"
+    },
+    {
+        "id": "8",
+        "image": "https://i.postimg.cc/HnRWSqZG/download-6.jpg",
+        "title": "Support Mental Health Initiatives",
+        "description": "Your donation will help raise awareness and provide resources for mental health initiatives, supporting individuals in their journey toward mental well-being.",
+        "category": "Health",
+        "amount": "$25"
+    },
+    {
+        "id": "9",
+        "image": "https://i.postimg.cc/s2fdt56f/download-13.jpg",
+        "title": "Championing the Preservation of Endangered Species",
+        "description": "Your support will aid in critical efforts to protect and preserve endangered species and their habitats for future generations.",
+        "category": "Wildlife",
+        "amount": "$100"
+    },
+    {
+        "id": "10",
+        "image": "https://i.postimg.cc/9fNwZnd9/images-2.jpg",
+        "title": "Provide Education for Underprivileged Children",
+        "description": "Your contribution will help provide educational opportunities for underprivileged children, empowering them to reach their full potential.",
+        "category": "Education",
+        "amount": "$50"
+    },
+    {
+        "id": "11",
+        "image": "https://i.postimg.cc/pXcV1HFm/ismael-paramo-tn-Vd-QGm-Wtb0-unsplash.jpg",
+        "title": "Support Local Food Banks",
+        "description": "Your donation will directly support efforts to provide food assistance to individuals and families facing hunger in your local community.",
+        "category": "Food",
+        "amount": "$75"
+    },
+    {
+        "id": "12",
+        "image": "https://i.postimg.cc/gcDBpc42/images.jpg",
+        "title": "Help Homeless Shelters",
+        "description": "Your contribution will make a meaningful impact by providing essential resources and support to homeless shelters, helping to improve the lives of individuals experiencing homelessness.",
+        "category": "Shelter",
+        "amount": "$25"
+    },
+    {
+        "id": "13",
+        "image": "https://i.postimg.cc/Qt6d79cd/download-7.jpg",
+        "title": "Support Mental Health Initiatives",
+        "description": "Your donation will help fund vital mental health programs and initiatives, promoting mental wellness and providing support to those in need.",
+        "category": "Health",
+        "amount": "$100"
+    },
+    {
+        "id": "14",
+        "image": "https://i.postimg.cc/XYk6HsgD/download-14.jpg",
+        "title": "Upholding the Sanctity of Endangered Species",
+        "description": "Your support will contribute to safeguarding the existence of endangered species and protecting their habitats for future generations to enjoy.",
+        "category": "Wildlife",
+        "amount": "$50"
+    },
+    {
+        "id": "15",
+        "image": "https://i.postimg.cc/mk7cxZ03/download-4.jpg",
+        "title": "Provide Education for Underprivileged Children",
+        "description": "Your contribution will provide access to quality education for underprivileged children, empowering them to break the cycle of poverty and build a better future.",
+        "category": "Education",
+        "amount": "$75"
+    },
+    {
+        "id": "16",
+        "image": "https://i.postimg.cc/K8dGxDQF/joel-muniz-y3-ZY6q-Fln-g-unsplash.jpg",
+        "title": "Support Local Food Banks",
+        "description": "Your donation will help ensure that local food banks have the resources they need to address food insecurity in your community and provide meals to those in need.",
+        "category": "Food",
+        "amount": "$25"
+    },
+    {
+        "id": "17",
+        "image": "https://i.postimg.cc/G2jzbzF5/images-1.jpg",
+        "title": "Help Homeless Shelters",
+        "description": "Your contribution will support homeless shelters in providing essential services and resources to individuals experiencing homelessness, helping them rebuild their lives.",
+        "category": "Shelter",
+        "amount": "$100"
+    },
+    {
+        "id": "18",
+        "image": "https://i.postimg.cc/HnVs9Yt4/download-8.jpg",
+        "title": "Support Mental Health Initiatives",
+        "description": "Your donation will help fund mental health initiatives and programs, providing vital support and resources to individuals facing mental health challenges.",
+        "category": "Health",
+        "amount": "$50"
+    },
+    {
+        "id": "19",
+        "image": "https://i.postimg.cc/tgrQy7w3/download-11.jpg",
+        "title": "Advocating for the Conservation of Endangered Species",
+        "description": "Your support will contribute to the protection and preservation of endangered species and their habitats, ensuring a biodiverse and sustainable future.",
+        "category": "Wildlife",
+        "amount": "$75"
+    },
+    {
+        "id": "20",
+        "image": "https://i.postimg.cc/fRDdNXWV/download-3.jpg",
+        "title": "Provide Education for Underprivileged Children",
+        "description": "Your contribution will support initiatives aimed at providing education to underprivileged children, empowering them to break the cycle of poverty and build a brighter future.",
+        "category": "Education",
+        "amount": "$25"
+    }
+]
